@@ -123,16 +123,16 @@
   ],
   "images": [
     {
-      "uri": "textures/Red_emissive.png"
+      "uri": "Red_emissive.png"
     },
     {
-      "uri": "textures/Red_normal.png"
+      "uri": "Red_normal.png"
     },
     {
-      "uri": "textures/Red_metallicRoughness.png"
+      "uri": "Red_metallicRoughness.png"
     },
     {
-      "uri": "textures/Red_baseColor.png"
+      "uri": "Red_baseColor.png"
     }
   ],
   "materials": [
